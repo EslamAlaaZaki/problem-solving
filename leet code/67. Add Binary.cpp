@@ -1,5 +1,9 @@
 
 // https://leetcode.com/problems/add-binary/
+
+// Runtime: 0 ms, faster than 100.00% of C++ online submissions for Add Binary.
+//Memory Usage: 6.3 MB, less than 84.88% of C++ online submissions for Add Binary.
+
 #include <iostream>
 
 using namespace std;
